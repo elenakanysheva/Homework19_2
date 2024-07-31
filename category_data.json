@@ -1,0 +1,26 @@
+[
+  {
+    "model": "catalog.category",
+    "pk": 1,
+    "fields": {
+      "name": "Одежда",
+      "description": "Одежда для женщин и мужчин"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 2,
+    "fields": {
+      "name": "Обувь",
+      "description": "Обувь для всей семьи"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 3,
+    "fields": {
+      "name": "Дом",
+      "description": "Все для уюта в доме"
+    }
+  }
+]
